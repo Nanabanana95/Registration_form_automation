@@ -1,5 +1,5 @@
 # Cypress simple tests
-Tests written for basic HTML, CSS and JavaScript project. For reporting Allure is configured.
+3 different registration forms are present. Tests written for basic HTML, CSS and JavaScript. For reporting Allure is configured.
 
 ## Main supported functions
 Cypress tests, allure report, stub network requests with Cypress
